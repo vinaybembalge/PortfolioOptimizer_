@@ -1,4 +1,4 @@
-# Chapter 1: PortfolioOptimizer Class
+# Chapter 1: Portfolio Optimizer Class
 
 Welcome to the first chapter of the Portfolio Optimizer tutorial! In this chapter, we'll meet the central piece of our project: the `PortfolioOptimizer` class. Think of this class as the main control center for everything we want to do with our stock portfolio.
 
