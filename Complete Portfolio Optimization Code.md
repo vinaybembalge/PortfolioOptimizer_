@@ -1,8 +1,8 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-## Complete Portfolio Optimization Code (GitHub Ready)
 
-Here's the complete, downloadable code based on your exact PDF data and results:
+## Complete Portfolio Optimization Code 
+
+
 
 ```python
 """
@@ -12,10 +12,9 @@ Equity Portfolio Optimization using Modern Portfolio Theory and CAPM
 This project optimizes a portfolio of 5 Nifty50 blue-chip stocks using Modern Portfolio Theory 
 to maximize Sharpe ratio and analyzes correlations with NIFTY index.
 
-Author: [Your Name]
+Author: Vinay Bembalge
 Date: 2025
-GitHub: [Your GitHub Username]
-"""
+
 
 import pandas as pd
 import numpy as np
@@ -580,9 +579,6 @@ This complete code package[^1]:
 - Contains professional documentation and structure
 - Generates publication-ready outputs
 
-The code is self-contained and will run immediately when executed, producing all the visualizations and CSV files for your GitHub repository.
-
-<div style="text-align: center">⁂</div>
 
 [^1]: PortfolioOptimizer.pdf
 
