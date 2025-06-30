@@ -1,4 +1,4 @@
-# Tutorial: Portfolio Optimizer
+Portfolio Optimizer
 
 This project is a Python tool that helps **analyze** and **optimize** a stock
 portfolio. It uses **historical data** to calculate key financial statistics,
