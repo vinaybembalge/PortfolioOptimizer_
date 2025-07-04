@@ -563,12 +563,7 @@ The script generates several output files:
 - Portfolio beta of 1.16 indicates higher systematic risk than market
 - Achieved 67.7% improvement in Sharpe ratio over equal-weighted portfolio
 
-## 👨‍💻 Author
-[Your Name]
 
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
-```
 
 This complete code package[^1]:
 
